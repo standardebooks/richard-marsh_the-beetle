@@ -177,7 +177,6 @@
 		<itemref idref="chapter-10.xhtml"/>
 		<itemref idref="chapter-11.xhtml"/>
 		<itemref idref="chapter-12.xhtml"/>
-		<itemref idref="book-3.xhtml"/>
 		<itemref idref="chapter-13.xhtml"/>
 		<itemref idref="chapter-14.xhtml"/>
 		<itemref idref="chapter-15.xhtml"/>
@@ -188,6 +187,7 @@
 		<itemref idref="chapter-20.xhtml"/>
 		<itemref idref="chapter-21.xhtml"/>
 		<itemref idref="chapter-22.xhtml"/>
+		<itemref idref="book-3.xhtml"/>
 		<itemref idref="chapter-23.xhtml"/>
 		<itemref idref="chapter-24.xhtml"/>
 		<itemref idref="chapter-25.xhtml"/>
