@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/richard-marsh/the-beetle</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-05-13T22:50:19Z</dc:date>
+		<meta property="dcterms:modified">2020-05-13T22:50:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,15 +60,17 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of middle-class Victorians must solve the mystery of an ancient Egyptian evil.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Beetle&lt;/i&gt; was published in 1897, the same year as &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;Dracula&lt;/a&gt;&lt;/i&gt;—and outsold it six to one that year. Like &lt;i&gt;Dracula&lt;/i&gt;, the novel is steeped in the evil mysteries of an ancient horror: in this case, a mysterious ancient Egyptian creature bent on revenge.&lt;/p&gt;
+			&lt;p&gt;The story is told through the sequential points of view of a group of middle-class Victorians who find themselves enmeshed in the creature’s plot. The creature, in the guise of an Egyptian man, appears in London seeking revenge against a popular member of Parliament. They soon find out that it can shape shift into other things, including women; that it can control minds and use hypnosis; and that it won’t stop at anything to get the revenge it seeks. The heroes are soon caught in a whirlwind of chase scenes, underground laboratories, secret cults, and more as they race to foil the creature.&lt;/p&gt;
+			&lt;p&gt;While &lt;i&gt;The Beetle&lt;/i&gt; didn’t earn the lasting popularity of Stoker’s counterpart, it remains a strange and unique morsel of Victorian sensationalist fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5164</dc:source>
 		<dc:source>https://books.google.com/books?id=4h0XAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">114416</meta>
+		<meta property="se:reading-ease.flesch">81.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beetle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-marsh_the-beetle</meta>
 		<dc:creator id="author">Richard Marsh</dc:creator>
