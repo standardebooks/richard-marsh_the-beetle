@@ -60,11 +60,11 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">A group of middle-class Victorians must solve the mystery of an ancient Egyptian evil.</dc:description>
+		<dc:description id="description">A group of middle-class Victorians find themselves pitted against an ancient Egyptian evil.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Beetle&lt;/i&gt; was published in 1897, the same year as &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;Dracula&lt;/a&gt;&lt;/i&gt;—and outsold it six to one that year. Like &lt;i&gt;Dracula&lt;/i&gt;, the novel is steeped in the evil mysteries of an ancient horror: in this case, a mysterious ancient Egyptian creature bent on revenge.&lt;/p&gt;
 			&lt;p&gt;The story is told through the sequential points of view of a group of middle-class Victorians who find themselves enmeshed in the creature’s plot. The creature, in the guise of an Egyptian man, appears in London seeking revenge against a popular member of Parliament. They soon find out that it can shape shift into other things, including women; that it can control minds and use hypnosis; and that it won’t stop at anything to get the revenge it seeks. The heroes are soon caught in a whirlwind of chase scenes, underground laboratories, secret cults, and more as they race to foil the creature.&lt;/p&gt;
-			&lt;p&gt;While &lt;i&gt;The Beetle&lt;/i&gt; didn’t earn the lasting popularity of Stoker’s counterpart, it remains a strange and unique morsel of Victorian sensationalist fiction.&lt;/p&gt;
+			&lt;p&gt;While &lt;i&gt;The Beetle&lt;/i&gt; didn’t earn the lasting popularity of &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Stoker’s&lt;/a&gt; counterpart, it remains a strange and unique morsel of Victorian sensationalist fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5164</dc:source>
