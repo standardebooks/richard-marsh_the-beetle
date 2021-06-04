@@ -72,7 +72,7 @@
 		<dc:source>https://books.google.com/books?id=4h0XAAAAYAAJ</dc:source>
 		<meta property="se:word-count">114416</meta>
 		<meta property="se:reading-ease.flesch">81.43</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beetle</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beetle_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-marsh_the-beetle</meta>
 		<dc:creator id="author">Richard Marsh</dc:creator>
 		<meta property="file-as" refines="#author">Marsh, Richard</meta>
