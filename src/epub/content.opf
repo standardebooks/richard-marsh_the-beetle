@@ -31,15 +31,15 @@
 		<dc:title id="title">The Beetle</dc:title>
 		<meta property="file-as" refines="#title">Beetle, The</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
-		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Revenge -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Monsters -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Politicians -- Fiction</dc:subject>
-		<dc:subject id="subject-6">British -- Egypt -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Egyptologists -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Egypt -- Antiquities -- Collection and preservation -- Fiction</dc:subject>
+		<dc:subject id="subject-2">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Revenge--Fiction</dc:subject>
+		<dc:subject id="subject-4">Monsters--Fiction</dc:subject>
+		<dc:subject id="subject-5">Politicians--Fiction</dc:subject>
+		<dc:subject id="subject-6">British--Egypt--Fiction</dc:subject>
+		<dc:subject id="subject-7">Egyptologists--Fiction</dc:subject>
+		<dc:subject id="subject-8">Egypt--Antiquities--Collection and preservation--Fiction</dc:subject>
 		<dc:subject id="subject-9">Paranormal fiction</dc:subject>
-		<dc:subject id="subject-10">Champnell, Augustus (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Champnell, Augustus (Fictitious character)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
